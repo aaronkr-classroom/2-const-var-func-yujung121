@@ -1,2 +1,3 @@
-# 1-hello-c
-2주차 C 실습
+# 2-const-var-func
+
+3주차 C 실습
